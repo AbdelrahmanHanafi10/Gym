@@ -1,0 +1,3 @@
+s1	monday	7pm	fittness	ali	5
+s1	saterday	7pm	gym	ali	5
+s1	saturday	7pm	gym	ali	4
